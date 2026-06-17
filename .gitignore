@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Hugging Face / model caches
+.cache/
+~/.cache/huggingface/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated output files (keep examples/ only)
+results.csv
+fault_breakdown.png
+classified_results.csv
