@@ -113,7 +113,8 @@ Fault distribution by category
   Low-confidence predictions               0
 ```
 
-![Fault breakdown chart](examples/fault_breakdown.png)
+![Fault breakdown chart]<img width="1200" height="675" alt="fault_breakdown" src="https://github.com/user-attachments/assets/d343bf2e-e9ac-4979-ab01-a74d7f91f1ac" />
+
 
 ## Repository layout
 
