@@ -160,7 +160,3 @@ A few things worth being upfront about:
 
 Built by Keegan Chinyenze as a follow-up to the ELE322 group project
 at the University of Sheffield.
-
-## Licence
-
-MIT
