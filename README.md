@@ -156,7 +156,5 @@ A few things worth being upfront about:
   to reduce the download size and inference time
 - Add a sub-category prediction step for the most common category
 
-## Author
-
-Built by Keegan Chinyenze as a follow-up to the ELE322 group project
+Built as a follow-up to the ELE322 group project
 at the University of Sheffield.
